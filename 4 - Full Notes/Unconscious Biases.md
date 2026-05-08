@@ -1,0 +1,10 @@
+**Tags**: [[Personal Observations]], [[Psychology]], [[Caste, Class and Gender Politics]]
+**Progress**: #Child 
+
+The world is biased, and you can’t change it. A man can influence his own decisions to be more neutral, fair and just, but cannot impact another person even a little bit. In the corporate ladder, bias happens, and it matters. My dad was not wrong. People do tend to look at your haircut, the way you dress, and the reason they favor well dressed, smart looking “men” is because that is the idea of success, an image of a successful man, in their brain. I just did a GE learning course on “**INCLUSION AT WORK: MANAGING UNCONSCIOUS BIASES AT THE OFFICE**”, and they gave a few reasons why people do that, and certain solutions to overcome unconscious bias to an extent.
+
+But as I was going through the course, I realized that this bias is prevalent ubiquitously, and it cannot be completely removed. People will favor a white man over a black woman, people will judge you based on how early you come to office, and people will prefer an extrovert who is loud more than the introvert who whispers. There’s no question on whether or not I should fight it when I’m the judge, but why not play into it when you are the person being judged?
+
+I understand that the outside self you show is a mirror image of what you feel inside. Manipulate the outside self, and you internalize the self you want to become. I must use this knowledge to play into the unconscious biases of people, manipulate them into thinking I am a capable, confident and mature man, and hence, become one.
+
+The thing about unconscious bias is that you can reduce its effects when the judge takes his time to make a conscious decision. To play into this, I must start by changing my physical appearance, posture, vocabulary and everything else to

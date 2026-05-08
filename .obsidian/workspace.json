@@ -1,0 +1,253 @@
+{
+  "main": {
+    "id": "9124fcb4d2f2d594",
+    "type": "split",
+    "children": [
+      {
+        "id": "91b34b96af4883a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76d4acc8d1052e68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 - Full Notes/Allostatic Load.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Allostatic Load"
+            }
+          },
+          {
+            "id": "b82be02d5a958050",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 - Full Notes/The Red or Blue button Dilemma.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Red or Blue button Dilemma"
+            }
+          },
+          {
+            "id": "6d3fc24225d5d42f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - Media Analysis/Film Analysis/Undertone.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Undertone"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4453dfb3a9655202",
+    "type": "split",
+    "children": [
+      {
+        "id": "f857aa2fbb579435",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0fb3e07f03b5dfa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3df23bdbc07b827d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3cc56ba863a800a7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d63df0f412615593",
+    "type": "split",
+    "children": [
+      {
+        "id": "edf9c274357af4df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7125e2e30dedd677",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3 - Media Analysis/Film Analysis/Virumaandi.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Virumaandi"
+            }
+          },
+          {
+            "id": "25683d2187b9ed74",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "3 - Media Analysis/Film Analysis/Virumaandi.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Virumaandi"
+            }
+          },
+          {
+            "id": "3a30a99f3eee5ef4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6aa8b9a637b6c019",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "04ebcbe50b724bc6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "3 - Media Analysis/Film Analysis/Virumaandi.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Virumaandi"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "6d3fc24225d5d42f",
+  "lastOpenFiles": [
+    "3 - Media Analysis/Film Analysis/Attack On Titan.md",
+    "3 - Media Analysis/Film Analysis/Undertone.md",
+    "4 - Full Notes/The Red or Blue button Dilemma.md",
+    "4 - Full Notes/Reflections on my short film.md",
+    "4 - Full Notes/Allostatic Load.md",
+    "4 - Full Notes/Being and Becoming.md",
+    "4 - Full Notes/Caste Prejudices in one day at home.md",
+    "4 - Full Notes/God Rays.md",
+    "4 - Full Notes/Indra, Iran and Cultural Assimilation.md",
+    "4 - Full Notes/Reflections for 2026.md",
+    "4 - Full Notes/Sacrifices and the CAP theorem.md",
+    "4 - Full Notes/Simpler Workouts, Happier Lifestyle.md",
+    "4 - Full Notes/Trans Bill 2026.md",
+    "4 - Full Notes/Wolverine's Monologue from Deadpool 3.md",
+    "4 - Full Notes/Unconscious Biases.md",
+    "1 - Rough Notes/Networking (the technical and boring kind).md",
+    "2 - Tags/Reflections.md",
+    "3 - Media Analysis/Film Analysis/Virumaandi.md",
+    "Untitled.canvas",
+    "2 - Tags/Religion & Philosophy.md",
+    "2 - Tags/Personal Observations.md",
+    "2 - Tags/Psychology.md",
+    "2 - Tags/Physical Fitness.md",
+    "2 - Tags/Acting.md",
+    "2 - Tags/Systems Thinking.md",
+    "2 - Tags/Caste, Class and Gender Politics.md",
+    "2 - Tags/Science.md",
+    "Untitled.base",
+    "3 - Media Analysis/Book Analysis",
+    "3 - Media Analysis/Videogame Analysis",
+    "3 - Media Analysis/Film Analysis",
+    "4 - Full Notes",
+    "3 - Media Analysis",
+    "2 - Tags",
+    "1 - Rough Notes"
+  ]
+}
